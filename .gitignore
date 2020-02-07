@@ -19,6 +19,7 @@
 # Visual Studio Code
 .vscode
 /.classpath
+/.factorypath
 /.project
 /.settings/
 /.gitignore
